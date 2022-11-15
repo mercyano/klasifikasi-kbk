@@ -1,2 +1,2 @@
 # klasifikasi-kbk
-Klasifikasi KBK Berdasarkan Judul dan Abstrak Skripsi
+Klasifikasi KBK Berdasarkan Judul dan Abstrak Skripsi.
